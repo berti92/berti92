@@ -13,7 +13,6 @@ I'm also available for freelance work. If you're looking for a skilled and exper
 I'm always happy to connect with other developers and learn new things. So feel free to reach out to me on [Mastodon](https://mastodon.social/@DevBird).
 
 Here are some of the technologies I'm proficient in:
-
 * Ruby on Rails
 * Python
 * PHP (not as good as I'm in RoR though)
@@ -28,6 +27,10 @@ I'm also interested in:
 * hiking with my family
 * any tech related stuff :)
 * hardware hacking
+
+Spoken languages:
+* german
+* english
 
 I'm always looking for new projects to contribute to. If you have any ideas, please let me know!
 
