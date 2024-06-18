@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-Hi there! I'm Andreas, a 32-year-old software developer based in the Kempten area (Bavaria Germany). I'm passionate about [liste deine Interessengebiete und Fähigkeiten auf] and I'm always looking for new challenges and opportunities to learn and grow.
+Hi there! I'm Andreas, a 32-year-old software developer based in the Kempten area (Bavaria Germany). I'm always looking for new challenges and opportunities to learn and grow.
 
 In my free time, I enjoy contributing to open-source projects. You can find some of my work here on GitHub. 
 
 If you like my work, you can support me by buying me a coffee on [![Paypal Donate](https://img.shields.io/badge/Paypal-donate-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=simplyanamedude@gmail.com&lc=GB&item_name=Andreas%20Treubert&no_note=0&currency_code=EUR&bn=PP-DonationsBF:btn_donate_LG.gif:NonHostedGuest)!
 
-Every little bit helps me to continue working on open-source projects and creating free content.Thank you for your support!
+Every little bit helps me to continue working on open-source projects and creating free content. Thank you for your support!
 
 I'm also available for freelance work. If you're looking for a skilled and experienced developer, please don't hesitate to [contact me](https://www.devbert.de/index.php/en/contact/).
 
